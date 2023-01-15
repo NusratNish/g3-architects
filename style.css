@@ -187,7 +187,6 @@
 }
 .some-fact-box:hover{
     transform: rotate(200deg);
-
     text-align: center;
     width: 180px;
     height: 130px;
@@ -196,8 +195,30 @@
     padding: 20px;
     border-radius: 5px;
 }
-
-
+/* ----------------------------------------Sponpors-------------- */
+.Sponpors{
+    margin-top: 100px;
+    
+}
+.sponsore-heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.sponsore-heading h1{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.sponsore-heading p{
+    font-size:small ;
+    color: gray;
+}
+.sponsore-list{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    padding: 40px;
+}
+  
 @media only screen and (max-width:576px) {
  
     /* .Features-img{
