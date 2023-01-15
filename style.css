@@ -42,9 +42,14 @@
     color: gray;
 
 }
-.btn{
-    
-    align-items: center;
+.banner-section .btn{
+    margin-left: 45%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn{ 
+   
     background-color:#FF900E;
     width: 150px;
     height: 55px;
